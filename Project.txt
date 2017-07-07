@@ -1,2 +1,3 @@
 test remote git
 first commit.
+中文测试
